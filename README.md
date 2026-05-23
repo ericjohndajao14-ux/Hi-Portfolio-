@@ -5,7 +5,7 @@
    -Playing online games 
    -Watching movie 
 
-##📍 Location by
+## 📍 Location by
    -El Nido Palawan
 
 ## 🍽️ Favorite food 
