@@ -9,7 +9,7 @@
    -El Nido Palawan
 
 ## 🍽️ Favorite food 
-   -Adobo
+   -Adobo manok
 
 ## 🖥️ skills 
    -Arduino | Beginner 
