@@ -1,4 +1,4 @@
-#Eric John M. Dajao
+## Eric John M. Dajao
 
 ## 🎯 Hobbies
    -Playing football
