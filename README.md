@@ -1,31 +1,38 @@
-## Eric John M. Dajao
+ECE_ESP32_PCB_Dajao_EN1B
 
-## 🎯 Hobbies
-   -Playing football
-   -Playing online games 
-   -Watching movie 
+Project Description
 
-## 📍 Location by
-   -El Nido Palawan
+This project is an ESP32-based PCB design created for Electronics Engineering requirements. The project focuses on designing and developing a functional printed circuit board (PCB) using the ESP32 microcontroller for embedded system applications.
 
-## 🍽️ Favorite food 
-   -Adobo manok
+Features
 
-## 🖥️ skills 
-   -Arduino | Beginner 
-   -C++ Coding | Beginner
-   -Schematic design | Beginner
+- ESP32 microcontroller integration
+- Compact PCB layout design
+- GPIO pin accessibility
+- Power supply connection
+- Easy programming and debugging
+- Suitable for IoT and embedded system projects
 
-## ⚙️ Project 
-   -Solar Tracking using C++ coding
+Components Used
 
-## 🔰 Future Goal
-   -Be successful in what I've started 
+- ESP32 Development Module
+- Resistors
+- Capacitors
+- LEDs
+- Push Buttons
+- PCB Board
+- USB Connector
+- Header Pins
 
-## ☎️ Phone number
-   -09759454453/09926436458
+Software Used
 
--Github:ericjohndajao14-ux
-  -ericjohndajao14@gmail.com
+- EasyEDA
+- GitHub
 
-THANKYOU FOR VISITING MY PORTFOLIO!!
+Author Name
+
+Eric John Dajao
+
+Course & Section
+
+ECE/EN1B
